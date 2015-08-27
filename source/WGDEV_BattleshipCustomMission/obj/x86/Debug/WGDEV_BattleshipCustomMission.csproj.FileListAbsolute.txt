@@ -1,0 +1,10 @@
+C:\Users\William\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_BattleshipCustomMission.exe
+C:\Users\William\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_BattleshipCustomMission.pdb
+C:\Users\William\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_BattleshipCustomMission.exe
+C:\Users\William\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_BattleshipCustomMission.pdb
+C:\Users\William\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_BattleshipCustomMission.csprojResolveAssemblyReference.cache
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_BattleshipCustomMission.exe
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_BattleshipCustomMission.pdb
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_BattleshipCustomMission.exe
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_BattleshipCustomMission.pdb
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_BattleshipCustomMission.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_SeaBattle.exe
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_SeaBattle.pdb
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_SeaBattle.exe
+C:\Users\WG\Desktop\WGDEV_BattleshipCustomMission\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_SeaBattle.pdb
+C:\Users\WG\Desktop\WGDEV_SeaBattle\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_SeaBattle.exe
+C:\Users\WG\Desktop\WGDEV_SeaBattle\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_SeaBattle.pdb
+C:\Users\WG\Desktop\WGDEV_SeaBattle\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_SeaBattle.exe
+C:\Users\WG\Desktop\WGDEV_SeaBattle\WGDEV_BattleshipCustomMission\bin\Debug\WGDEV_SeaBattle.pdb
+C:\Users\WG\Desktop\WGDEV_SeaBattle\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_SeaBattle.csprojResolveAssemblyReference.cache
+C:\Users\WG\Documents\GitHub\SeaBattle\WGDEV_SeaBattle\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_SeaBattle.exe
+C:\Users\WG\Documents\GitHub\SeaBattle\WGDEV_SeaBattle\WGDEV_BattleshipCustomMission\obj\x86\Debug\WGDEV_SeaBattle.pdb
